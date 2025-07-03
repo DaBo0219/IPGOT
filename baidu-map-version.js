@@ -852,7 +852,7 @@ function generateHtmlPage(displayIp, result, browserInfo) {
             
             // 加载百度地图API
             const baiduMapScript = document.createElement('script');
-            baiduMapScript.src = 'https://api.map.baidu.com/api?v=3.0&ak=换为自己的百度ak&callback=initBaiduMap';
+            baiduMapScript.src = 'https://api.map.baidu.com/api?v=3.0&ak=YOUR_BAIDU_MAP_AK&callback=initBaiduMap';
             document.body.appendChild(baiduMapScript);
             
             // 定义百度地图初始化函数
