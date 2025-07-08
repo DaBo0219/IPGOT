@@ -2,6 +2,8 @@
 
 **IP信息查询工具 - IPGOT** 是一个基于Cloudflare Workers构建的高级IP信息查询工具，提供详细的IP地址分析、地理位置信息和威胁情报。
 
+**演示站 http://www.ipgot.shop/**
+
 <h2>🌟 功能特性</h2>
 
 **🔍 实时IP地址信息查询**
