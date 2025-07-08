@@ -21,6 +21,9 @@
 <h2>🗺️ 两种地图版本</h2>
 项目包含两个版本，分别使用不同的地图服务：
 
+**新增版本**
+应用VirusTotalAPI、ip2locationAPI、IPAPI的免费额度key增强识别精度 脚本名称V&I由百度版本变换而来所以这个版本也需要加百度的key
+
 **1. 百度地图版本 (baidu-map-version.js)**
 **优点：**
 
